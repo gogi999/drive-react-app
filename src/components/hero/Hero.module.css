@@ -23,6 +23,7 @@ form {
 form label {
     font-size: 0.78rem;
     padding-bottom: 2px;
+    font-weight: 600;
 }
   
 form .text,
